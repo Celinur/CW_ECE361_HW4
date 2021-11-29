@@ -1,0 +1,104 @@
+Celina Wong ECE361 HW#4
+Transcript showing program compiled with makefile and the execution.
+
+*****************HASH TABLE DUMP WHEN INPUTTING '?'************************
+15034@LAPTOP-N9HATM34 MINGW64 ~/Documents/ECE361HW4 (main)
+$ mingw32-make
+mingw32-make: 'test_hashtable.o' is up to date.
+
+15034@LAPTOP-N9HATM34 MINGW64 ~/Documents/ECE361HW4 (main)
+$ ./test_hashtable
+
+Hash Table ADT test program (by Celina Wong, 21-Nov-2021)
+
+Current working directory: C:\Users\15034\Documents\ECE361HW4
+
+
+Creating a new hash table...
+
+Inserting Team Info records into hash table...
+
+Menu:
+
+Enter '?' to display the keys for all the conference entires.
+Enter 'q' to quit the program at any time.
+
+Enter a conference (NWSL, EAST, or WEST): ?
+Hash table contains:
+
+        Hash Table[00] has k:v = ORLANDOEAST:006b55f0..
+        Hash Table[03] has k:v = CINCINATTIEAST:006b9790.
+        Hash Table[05] has k:v = COLORADOWEST:006b90b0
+        Hash Table[06] has k:v = SALT LAKEWEST:006b9738..
+        Hash Table[09] has k:v = SAN JOSEWEST:006b91b8
+        Hash Table[10] has k:v = NASHVILLEEAST:006b53f0.
+        Hash Table[12] has k:v = LAFCWEST:006b9160.
+        Hash Table[14] has k:v = HOUSTONNWSL:006b4ff8
+        Hash Table[15] has k:v = ORLANDONWSL:006b50a0.
+        Hash Table[17] has k:v = NEW YORK CITYEAST:006b5498..
+        Hash Table[20] has k:v = AUSTINWEST:006b9630
+        Hash Table[21] has k:v = DCEAST:006b0500.
+        Hash Table[23] has k:v = CHICAGOEAST:006b9058..
+        Hash Table[26] has k:v = PORTLANDWEST:006b9528..
+        Hash Table[29] has k:v = TORONTOEAST:006b9420
+        Hash Table[30] has k:v = WASHINGTONNWSL:006b19a0..
+        Hash Table[33] has k:v = TACOMANWSL:006b18f8..
+        Hash Table[36] has k:v = PORTLANDNWSL:006b1850....
+        Hash Table[41] has k:v = MIAMIEAST:006b9688..
+        Hash Table[44] has k:v = NEW ENGLANDEAST:006b5298....
+        Hash Table[49] has k:v = SEATTLEWEST:006b93c8.
+        Hash Table[51] has k:v = KANSAS CITYWEST:006b9370.......
+        Hash Table[59] has k:v = LOUISVILLENWSL:006b5148
+        Hash Table[60] has k:v = VANCOUVERWEST:006b9268
+        Hash Table[61] has k:v = NJ/NYNWSL:006b1af0...
+        Hash Table[65] has k:v = HOUSTONWEST:006b9210.
+        Hash Table[67] has k:v = CHICAGONWSL:006b1a48
+        Hash Table[68] has k:v = ATLANTAEAST:006b5548
+        Hash Table[69] has k:v = DALLASWEST:006b92c0..
+        Hash Table[72] has k:v = LAWEST:006b9108
+        Hash Table[73] has k:v = NEW YORKEAST:006b5698
+        Hash Table[74] has k:v = MONTREALEAST:006b94d0
+        Hash Table[75] has k:v = MINNESOTAWEST:006b95d8...
+        Hash Table[79] has k:v = PHILADELPHIAEAST:006b5340.....
+        Hash Table[85] has k:v = NORTH CAROLINANWSL:006b1b98
+        Hash Table[86] has k:v = KANSAS CITYNWSL:006b51f0
+        Hash Table[87] has k:v = COLUMBUSEAST:006b9478..
+
+Hash table dump is complete.  Celina Wong (wcelina@pdx.edu)
+
+************WHEN ENTERING CONF, CITY, THEN 'q' TO QUIT****************
+15034@LAPTOP-N9HATM34 MINGW64 ~/Documents/ECE361HW4 (main)
+$ ./test_hashtable
+
+Hash Table ADT test program (by Celina Wong, 21-Nov-2021)
+
+Current working directory: C:\Users\15034\Documents\ECE361HW4
+
+
+Creating a new hash table...
+
+Inserting Team Info records into hash table...
+
+Menu:
+
+Enter '?' to display the keys for all the conference entires.
+Enter 'q' to quit the program at any time.
+
+Enter a conference (NWSL, EAST, or WEST): WEST
+Enter a city: Portland
+
+Searching hash table for PORTLANDWEST
+
+Team Information for the Timbers:
+        Conference: WEST
+        City: Portland
+        Record (w-l-t): 17-13-4
+        Goal differential: 4
+----------------------
+
+Enter another conference and team nickname.
+
+Conference (NWSL, EAST, or WEST): q
+
+
+Exiting program.  Celina Wong (wcelina@pdx.edu)

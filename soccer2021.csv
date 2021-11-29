@@ -1,0 +1,38 @@
+// Order: Conf, City, Name, points, win, loss, tie, gd
+NWSL,Portland,Thorns,44,13,6,5,16
+NWSL,Tacoma,OL Reign,42,13,8,3,13
+NWSL,Washington,Spirit,39,11,7,6,3
+NWSL,Chicago,Red Stars,38,11,8,5,0
+NWSL,NJ/NY,Gotham FC,35,8,5,11,8
+NWSL,North Carolina,Courage,33,9,9,6,5
+NWSL,Houston,Dash,32,9,10,5,0
+NWSL,Orlando,Pride,28,7,10,7,-5
+NWSL,Louisville,Racing Louisville FC,22,5,12,7,-19
+NWSL,Kansas City,Current,16,3,14,7,-21
+EAST,New England,Revolution,73,22,5,7,24
+EAST,Philadelphia,Union,54,14,8,12,13
+EAST,Nashville,Nashville SC,54,12,4,18,22
+EAST,New York City,New York City FC,51,14,11,9,20
+EAST,Atlanta,United,51,13,9,12,8
+EAST,Orlando,Orlando City,51,13,9,12,2
+EAST,New York,Red Bulls,48,13,12,9,6
+EAST,DC,United,47,14,15,5,2
+EAST,Columbus,Crew,47,13,13,8,1
+EAST,Montreal,CF Montreal,46,12,12,10,2
+EAST,Miami,Inter Miami CF,41,12,17,5,-17
+EAST,Chicago,Fire FC,34,9,18,7,-18
+EAST,Toronto,Toronto FC,28,6,18,10,-27
+EAST,Cincinatti,FC Cincinatti,20,4,22,8,-37
+WEST,Colorado,Rapids,61,17,7,10,16
+WEST,Seattle,Sounders,60,17,8,9,20
+WEST,Kansas City,Sporting Kansas City,58,17,10,7,18
+WEST,Portland,Timbers,55,17,13,4,4
+WEST,Minnesota,United,49,13,11,10,-2
+WEST,Vancouver,Whitecaps FC,49,12,9,13,0
+WEST,Salt Lake,Real Salt Lake,48,14,14,6,1
+WEST,LA,Galaxy,48,13,12,9,-4
+WEST,LAFC,Los Angeles Football Club,45,12,13,9,2
+WEST,San Jose,Earthquakes,41,10,13,11,-8
+WEST,Dallas,FC_Dallas,33,7,15,12,-9
+WEST,Austin,Austin FC,31,9,21,4,-21
+WEST,Houston,Dynamo FC,30,6,16,12,-18
